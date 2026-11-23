@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "functions": {
+    "api/concierge.js": {
+      "maxDuration": 15
+    }
+  }
+}
